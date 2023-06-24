@@ -1,4 +1,4 @@
-### screen gif
+### Screen Gif
 
 ![](screen.gif)
 
